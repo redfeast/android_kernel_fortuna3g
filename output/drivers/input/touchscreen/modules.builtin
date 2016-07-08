@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/input_mt_wrapper.ko
+kernel/drivers/input/touchscreen/zinitix/zinitix_bt541_ts.ko

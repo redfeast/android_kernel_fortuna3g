@@ -1,0 +1,3 @@
+kernel/drivers/sensors/k303c_acc.ko
+kernel/drivers/sensors/k303c_mag.ko
+kernel/drivers/sensors/gp2a002.ko
